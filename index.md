@@ -1,3 +1,7 @@
+---
+layout: default
+title: Jorge Ragde
+---
 ## Welcome
 
 Hi! My name is Jorge Ragde and I am a undergraduate at the University of California, Irvine. I study Mathematics and Electrical Engineering. This website is a collection of write-ups on math/physics/EE things I find interesting as well as some personal projects.
